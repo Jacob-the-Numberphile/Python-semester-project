@@ -16,3 +16,7 @@ vaccine unemplyment rated universally stay at 10-12%, while experiancing a high 
 Furthermore, I analyzed the two features over time, which revealed an initial spike in unemployment which gradually reduces 
 to a normal period over time, and hospitalizations gradually increasing until a sudden and pronounced spike in the October to 
 to February time period.
+
+Example graph:
+
+![ex](/images/ex.png)
